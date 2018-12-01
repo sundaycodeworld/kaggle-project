@@ -1,7 +1,7 @@
 # kaggle-project
 
 ## Titanic: Machine Learning from Disaster
-https://www.kaggle.com/c/titanic
+Project url: https://www.kaggle.com/c/titanic
 1. Machine Learning (scikit learn)  
     code from https://study.163.com/course/courseMain.htm?courseId=1003551009  
     LinearRegression  
@@ -19,6 +19,7 @@ https://www.kaggle.com/c/titanic
     The accuracy is about 94%  
 
 ## Digit Recognizer  
+Project url: https://www.kaggle.com/c/digit-recognizer
 1. PCA  
 
 2. CNN  
