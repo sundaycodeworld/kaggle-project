@@ -10,7 +10,7 @@ import numpy as np
 import operator
 import matplotlib.pyplot as plt
 
-data = pd.read_csv('../input/train.csv')
+data = pd.read_csv('train.csv')
 #test_data = pd.read_csv('../input/test.csv')
 
 train_data = data[data.columns[1:]][:40000]
